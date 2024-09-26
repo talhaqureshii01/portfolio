@@ -1,10 +1,10 @@
 {
-  "name": "devfolio",
+  "name": "talhaportfolio",
   "version": "1.5.0",
   "description": "A simple, responsive, single-page portfolio and resume for developers built with Bulma, Sass, Font Awesome and Flickity.",
   "main": "webpack.config.js",
-  "repository": "https://github.com/mmacneil/devfolio",
-  "author": "Mark Macneil",
+  "repository": "https://github.com/talhaqureshii01/portfolio",
+  "author": "Talha Rauf",
   "license": "MIT",
   "scripts": {
     "build": "webpack --mode production"
